@@ -1,5 +1,3 @@
-package br.com.dio.desafio.dominio;
-
 import java.time.LocalDate;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
