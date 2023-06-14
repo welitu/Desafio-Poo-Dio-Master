@@ -129,3 +129,4 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 </p>
 
+sadasd
