@@ -130,6 +130,11 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 </p>
 
 sad
-sa
-dsa
+sasdasd
+dsaasdas
+asdasda
 asdasd
+asdasdas
+dsadasd
+asdasdasdas
+as
