@@ -132,7 +132,7 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 sad
 sasdasd
 dsaasdas
-asdasda
+asdas
 asdasd
 asdasd
 dsa
